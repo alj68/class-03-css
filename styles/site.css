@@ -7,3 +7,14 @@ li {
   font-family: monospace;
   font-size: 15pt;
 }
+
+h1 {
+  color: #353582;
+  background-color: #e8cbea;
+}
+
+h2 {
+  font-family: 'Baskerville', sans-serif;
+  font-variant: small-caps;
+  font-size: 36pt;
+}
